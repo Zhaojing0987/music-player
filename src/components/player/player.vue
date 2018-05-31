@@ -89,6 +89,8 @@
       },
       afterEnter(){
 
+
+          
       },
       leave(el, done){
 
